@@ -40,10 +40,10 @@
 
 <p align="center">
   <a href="https://youtube.com/channel/UCTVeRHM0v0Hqv_-O8yVkFpw"><img src="https://img.shields.io/badge/YouTube-Zenss-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/RlhkqeUDZrA" /></a>
-  <a name=Johannes&label=VIEWS&style=flat-square&color=orange" />
+  <a name=Zenss&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
- #sosial media
+ #Sosial Media
 
 
 * [`WhatsApp`](https://wa.me/62895604670507)
